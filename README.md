@@ -1,1 +1,2 @@
-# Image Finder app made with React and Material UI using PixaBay API
+# pixabay_iamge_finder
+Image Finder App made with React and Material UI using PixaBay API
